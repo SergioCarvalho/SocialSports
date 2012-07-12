@@ -1,0 +1,61 @@
+b.instruc {
+	font-size: 25px;
+	margin-left: 560px;
+	color:#000066;
+}
+
+b.msgtexto {
+	font-size: 20px;
+	margin-left: 50px;
+	color:#000066;
+}
+
+b.msgdatafonte {
+	font-size: 15px;
+	color:#000066;
+}
+
+b.opcoes{
+	font-size: 15px;
+	margin-left: 80px;
+	color:#000066;
+}
+
+b.textoopc{
+	font-size: 15px;
+	color:#000066;
+}
+
+b.texto{
+	font-size: 20px;
+	color:#000066;
+}
+
+.bt_selectfield {
+	font-size: 20px;
+	color:#000066;
+}
+
+.bt_preferences{
+	font-size: 30px;
+	color: #00060;
+	margin: 0.5em;
+}
+
+.bt_hashtags{
+	font-size: 20px;
+	margin: 0.5em;
+
+a.menu-item {
+    display: block;
+    padding: 1em;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 10px;
+    box-shadow: 1px 1px 4px #768395;
+    background: -webkit-linear-gradient(top, #fff, #ddd);
+}
+
+.errorfield { font-size: 0.75em;}
+.errorfield ul { margin: 10px;}

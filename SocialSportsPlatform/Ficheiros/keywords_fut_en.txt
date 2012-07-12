@@ -1,0 +1,32 @@
+goal
+score
+shot
+header
+save
+blocked
+offside
+off-side
+corner
+dismissed
+sent off
+sent-off
+booked
+booking
+yellow card
+yellow-card
+red card
+red-card
+foul
+free kick
+free-kick
+sub
+substituion
+replaced
+penalty
+half time
+halftime
+half-time
+full time
+fulltime
+full-time
+contract

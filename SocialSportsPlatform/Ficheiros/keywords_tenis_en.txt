@@ -1,0 +1,25 @@
+ace
+advantage
+break
+court
+deuce
+double fault
+double-fault
+forced error
+forced-error
+game
+grand slam
+grand-slam
+match
+net
+passing shot
+passing-shot
+serve
+service
+set
+tiebreak
+tie break
+tie-break
+unforced error
+unforcer-error
+winner

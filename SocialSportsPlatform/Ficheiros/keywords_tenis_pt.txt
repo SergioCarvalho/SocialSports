@@ -1,0 +1,33 @@
+ás
+vantagem
+break
+court
+iguais
+deuce
+dupla falta
+dupla-falta
+erro forcado
+erro-forcado
+erro forçado
+erro-forçado
+jogo
+grand slam
+match
+rede
+passada
+passing shot
+passing-shot
+serve
+servir
+serviço
+set
+tiebreak
+tie break
+tie-break
+erro nao forcado
+erro-nao-forcado
+erro não forcado
+erro-não-forcado
+erro não forçado
+erro-não-forçado
+winner
